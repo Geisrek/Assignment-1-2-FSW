@@ -1,0 +1,12 @@
+.profile-container{
+ width: 50%;
+ height: 100%;
+}
+.profile-image{
+    height: 90%;
+    width: 150px;
+}
+.profile-Text{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}

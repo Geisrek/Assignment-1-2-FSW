@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 300px;
+    
+}
+.head-item{
+    display: inline-block;
+    height: 100%;
+}
