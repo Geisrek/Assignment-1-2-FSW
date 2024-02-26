@@ -11,10 +11,16 @@
    
 }
 .nav-container{
-    margin-left: 300px;
+    position: absolute;
+    top: 0%;
+    right: 10%;
     
 }
 .nav-container #nav a li {
     list-style: none;
+    
     display: inline-block;
+}
+.introduction{
+    margin-top: 20px;
 }
