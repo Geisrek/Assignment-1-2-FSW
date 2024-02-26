@@ -3,10 +3,18 @@
  height: 100%;
 }
 .profile-image{
-    height: 90%;
-    width: 150px;
+    height: 100%;
+    width: 200px;
 }
 .profile-Text{
    font-family: Georgia, 'Times New Roman', Times, serif;
- 
+   
+}
+.nav-container{
+    margin-left: 300px;
+    
+}
+.nav-container #nav a li {
+    list-style: none;
+    display: inline-block;
 }
