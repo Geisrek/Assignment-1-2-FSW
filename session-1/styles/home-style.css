@@ -29,5 +29,23 @@
 }
 .introduction{
     margin-top: 20px;
+    height: 500px;
+    
+}
+.I-Text{
+    
+    display: inline-block;
     width: 50%;
+    
+
+}
+.I-image{
+     display: inline-block;
+     margin-right: 20px;
+     
+
+}
+.I-image img{
+    width: 400px;
+     height: 300px;
 }
