@@ -16,6 +16,12 @@
     right: 10%;
     
 }
+.nav-container #nav a{
+  color: silver;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: medium;
+  padding: 5px;
+}
 .nav-container #nav a li {
     list-style: none;
     
@@ -23,4 +29,5 @@
 }
 .introduction{
     margin-top: 20px;
+    width: 50%;
 }
