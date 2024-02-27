@@ -1,0 +1,33 @@
+.head-title{
+    padding: 100px;
+}
+.profile-Text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+ }
+ .nav-container{
+     position: absolute;
+     top: 0%;
+     right: 10%;
+     
+ }
+ .nav-container #nav a{
+    color: silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    padding: 5px;
+  }
+  .nav-container #nav a li {
+      list-style: none;
+      
+      display: inline-block;
+  }
+  
+ .card-items{
+
+  min-height: 250px;
+    width: 40%;
+    display: inline-block;
+    margin-left: 10px;
+    
+  }
