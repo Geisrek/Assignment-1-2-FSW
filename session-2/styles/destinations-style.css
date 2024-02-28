@@ -1,0 +1,98 @@
+body{
+    background-image: url('../assets/bg-2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li{
+    padding: 5px;
+    text-decoration: none;
+    list-style: none;
+}
+.nav{
+    position: absolute;
+    right: 0;
+    border: 1px solid lightblue;
+    height: 50px;
+    width: 100%;
+}
+.nav a{
+    border: 1px solid lightblue;
+    height: 50px;
+    width: fit-content;
+    text-decoration: none;
+    opacity: 0.7;
+    background-color: lightblue;
+    font-family: fantasy;
+}
+.nav a:hover{
+    background-color: rgb(108, 177, 201);
+    opacity: 0.5;
+    font-size: large;
+
+}
+.hero-section{
+ height: 100%;
+ width: 50%;
+ color: aliceblue;
+ background-color: aqua;
+ font-family: fantasy;
+}
+
+
+nav a li{
+    list-style: none;
+    color: rgb(2, 129, 172);
+}
+h1{
+    color: rgb(2, 129, 172);
+    font-family: fantasy;
+    opacity: 0.7;
+}
+.container{
+    background-color: aliceblue;
+    position: absolute;
+    top:250px;
+    left: 10%;
+    height: 400px;
+    width: 80%;
+    opacity: 0.6;
+}
+.Gap-40{
+    gap:40px;
+}
+.destinations{
+   height: 100%;
+   width: 50%;
+   
+}
+.hero-section{
+    height: 100%;
+   width: 50%;
+   color: rgb(32, 93, 207);
+}
+.Card-container{
+   
+}
+
+.Card{
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+}
+.Card a{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    height: 100%;
+}
+.Card a img{
+    width: 100%;
+    height: 30%;
+}
+.Card :hover{
+    background-color: cadetblue;
+    color: rgb(32, 93, 207);
+}

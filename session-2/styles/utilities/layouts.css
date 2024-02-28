@@ -21,6 +21,9 @@
     display: flex;
     flex-direction: column;
 }
+.Gap{
+    gap: 5px;
+}
 .column-center{
     display: flex;
     flex-direction: column;
