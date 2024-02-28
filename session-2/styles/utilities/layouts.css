@@ -34,3 +34,26 @@
     display: flex;
     align-items: center;
 }
+.foot{
+    justify-content: end;
+}
+.foot-item{
+    flex-grow: 1;
+   
+}
+
+footer{
+    background-color: cadetblue;
+    color: #ffffff;
+    font-family: fantasy;
+}
+footer div{
+    display: flex;
+    gap: 5px;
+}
+footer a{
+    text-decoration: none;
+    color: #ffffff;
+    
+
+}
