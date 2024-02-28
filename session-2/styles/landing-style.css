@@ -30,3 +30,28 @@ header h1{
     font-family: fantasy;
     opacity: 0.7;
 }
+.tours-info-Cards{
+    display: flex;
+    margin-top: 70px;
+   
+    
+}
+.Gap-10{
+    gap:10px;
+}
+.tour-card{
+    border: 1px black solid;
+    border-radius: 10px;
+    width :400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+   
+
+}
+.tour-card img{
+    height: 50%;
+    width:100%;
+    border-radius: 10px;
+}
