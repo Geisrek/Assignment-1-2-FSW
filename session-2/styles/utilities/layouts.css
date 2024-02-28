@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.flex-items{
+    display: flex;
+    flex-direction: row;
+}
+.mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.end{
+    
+    justify-content: end;
+}
+.to-column{
+    display: flex;
+    flex-direction: column;
+}
+.column-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.column-center-Y{
+    display: flex;
+    align-items: center;
+}
